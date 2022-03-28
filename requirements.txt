@@ -1,2 +1,2 @@
-openai==0.16.0
+openai
 git+https://github.com/Pycord-Development/pycord                              
